@@ -1,3 +1,14 @@
+= Objetos Digitais e Educação em Computação = 
+
+== Disciplina
+
+Nome da disciplina:: Seminário Temático: Objetos Digitais e Educação 
+em Computação.
+
+Autores:: Ana Wyse, Eduardo Santana
+
+Curso:: http://portal2.virtual.ufpb.br/index.php/cursos/graduacao/licenciatura-em-computacao/[Licenciatura em Computação a Distância na UFPB]
+
 == Asciidoc Book template with rake tasks and github
 
 This is the book template used at Universidade Federal da Paraíba for a online course (Licenciatura em Computação a Distância).
