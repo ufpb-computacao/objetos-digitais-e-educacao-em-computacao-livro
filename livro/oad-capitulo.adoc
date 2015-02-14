@@ -1,0 +1,38 @@
+== Objetos Digitais de Aprendizagem: Definição e Conceitos
+
+:cap: oad
+:img: images/{cap}
+
+.Objetivos do capítulo
+____
+Ao final deste capítulo você deverá ser capaz de:
+
+1. *Lembrar* o que são recursos digitais e analógicos, *reconhecendo*
+em um conjunto de recursos apresentados quais são analógicos ou
+digitais.
+
+2. *Entender* o que são Objeto de Aprendizagem e Objeto de
+Aprendizagem Digital (OAD), *explicando* em que contexto objetos
+apresentados podem ser considerados um OAD. 
+
+3. *Entender* as características dos OAD, *explicando* como as
+características estão presentes nos objetos apresentados.
+
+4. *Lembrar* a importância dos OAD, *reproduzindo* a importância dos
+OAD.
+
+____
+
+include::oad1-terminologia.adoc[]
+
+include::oad2-caracteristicas.adoc[]
+
+include::oad3-composicao.adoc[]
+
+include::oad4-importancia.adoc[]
+
+
+=== Recapitulando
+
+Revisar o que foi visto (não apresentar informação nova). Introduzindo
+os conteúdos do próximo capítulo (opcional).

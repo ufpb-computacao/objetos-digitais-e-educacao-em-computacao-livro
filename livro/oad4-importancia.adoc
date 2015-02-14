@@ -1,0 +1,25 @@
+=== Importância dos OADs
+
+(((OAD, Importância)))
+
+==== Baixo custo
+Todo.
+
+==== Motivação
+Todo.
+
+==== Reutilização
+Todo.
+
+==== Atividade: reproduzindo a importância dos OADs
+Todo.
+
+Resposta comentada: TODO.
+
+[TIP]
+.Feedback
+====
+
+TODO.
+
+====

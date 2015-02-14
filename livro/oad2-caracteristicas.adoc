@@ -1,0 +1,140 @@
+=== Características dos OAD
+
+(((OAD, Características)))
+
+Os objetos digitais de aprendizagem podem ser criados em qualquer
+mídia ou formato, variando desde uma simples imagem até um complexo
+software. De acordo com padrões internacionais que pautam aspectos dos
+objetos de aprendizagem, é necessário que eles devam, como toda
+atividade de ensino, apresentar propósito educacional bem definido,
+ser instigantes e envolventes para estimular a reflexão do aluno e
+possam ser aplicados diversas vezes e em várias situações. Para
+satisfazer esse último quesito, o objeto de aprendizagem normalmente
+trabalha com  pequena parte do conteúdo curricular, sendo bem
+específico dentro de um assunto amplo (essa propriedade se chama
+granularidade).  Assim, as principais características de um objeto de
+aprendizagem são apresentadas a seguir.
+
+==== Reusabilidade
+
+(((Reusabilidade)))
+
+reusabilidade: deve ser reutilizável diversas vezes em diversas situações e ambientes de aprendizagem, como por exemplo um objeto que possa ser usado tanto no ensino presencial quanto no ensino a distância e tanto no Brasil como no México;
+
+==== Granularidade
+
+(((Granularidade)))
+
+granularidade: deve apresentar conteúdo bem específico, para facilitar o seu uso e reuso, como por exemplo um objeto que auxilie no aprendizado do conceito de frações;
+
+==== Acessibilidade
+
+(((Acessibilidade)))
+
+acessibilidade: ser facilmente acessível para ser usado em diversos locais ou, ainda, ser potencialmente acessível a usuários com necessidades especiais; por exemplo um blog com conteúdo de trigonometria ou um audiobook;
+
+==== Durabilidade
+
+(((Durabilidade)))
+
+durabilidade: apresentar possibilidade de continuar a ser usado independente de mudança de tecnologia. Isso significa que um objeto que era usado em um equipamento mais antigo deve poder ser utilizado em um equipamento moderno, tendo em vista a rapidez com que nossa tecnologia se torna obsoleta;
+
+==== Interoperabilidade
+
+(((Interoperabilidade)))
+
+interoperabilidade: apresentar possibilidade de operar através de variedade de hardwares, sistemas operacionais e browsers. Isso significa que um objeto deve funcionar em Linux, Windows e ser acessado usando Firefox, Explorer ou Chromium por exemplo;
+
+==== Atividades: explicando as características dos OAD com base nos objetos apresentados
+
+Todo.
+
+Apresentar dois objetos digitais para cada um tipo do ODA e pedir que
+ele explique porque o objeto possui ou não possui aquela propriedade
+
+Exemplo: Explicar porque um é reusável e outro não é
+
+
+===== Reusabilidade
+
+(((Reusabilidade)))
+
+TODO.
+
+*Resposta comentada*: TODO.
+
+[TIP]
+.Feedback
+====
+
+TODO.
+
+====
+
+
+===== Granularidade
+
+(((Granularidade)))
+
+TODO.
+
+*Resposta comentada*: TODO.
+
+[TIP]
+.Feedback
+====
+
+TODO.
+
+====
+
+
+===== Acessibilidade
+
+(((Acessibilidade)))
+
+TODO.
+
+*Resposta comentada*: TODO.
+
+[TIP]
+.Feedback
+====
+
+TODO.
+
+====
+
+
+===== Durabilidade
+
+(((Durabilidade)))
+
+TODO.
+
+*Resposta comentada*: TODO.
+
+[TIP]
+.Feedback
+====
+
+TODO.
+
+====
+
+
+===== Interoperabilidade
+
+(((Interoperabilidade)))
+
+TODO.
+
+*Resposta comentada*: TODO.
+
+[TIP]
+.Feedback
+====
+
+TODO.
+
+====

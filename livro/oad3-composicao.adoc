@@ -1,0 +1,43 @@
+=== Composição de um OAD
+
+(((OAD, Composição)))
+
+Devido a grande demanda de objetos digitais de aprendizagem
+disponibilizados na internet e outros meios,  surgiu a necessidade de
+se fazer uma padronização das tecnologias de aprendizagem. Com esses
+elementos (grânulos) já padronizados, a busca, uso, reuso tornam-se
+mais fáceis já que dessa forma eles podem ser armazenados em
+repositórios de metadados.
+
+Independente do tipo de padronização a ser seguido, o objeto de
+aprendizagem pode ser dividido em três partes distintas que veremos a
+seguir.
+
+==== Objetivo
+
+O objetivo, em que o aprendiz busca as informações a respeito do campo
+em que o seu objeto de aprendizagem vai intervir; 
+
+==== Conteúdo
+
+O conteúdo, no qual serão previstas as ferramentas de criação de um
+objeto de aprendizagem; 
+
+==== Prática
+
+A prática, ou feedback, que é quando o aprendiz irá fazer os testes
+necessários no objeto de aprendizagem para verificar se o objeto
+supriu as expectativas propostas nos objetivos. 
+
+==== Atividade: reproduzindo a composição de um OAD
+Todo.
+
+Resposta comentada: TODO.
+
+[TIP]
+.Feedback
+====
+
+TODO.
+
+====
