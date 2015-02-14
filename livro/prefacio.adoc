@@ -1,48 +1,36 @@
-Este livro foi desenvolvido para a introdução do tema Computação, não
-tendo a ambição de englobar toda esta vasta área do conhecimento
-humano. Computação é a área responsável pelas diversas regras e
-técnicas para o ato de computar, representar e disponibilizar a
-informação de forma automática.
+Se um médico do século passado viajasse no tempo e chegasse hoje para
+trabalhar em um hospital, certamente seria incapaz de operar os
+equipamentos ou mesmo avaliar exames de seus pacientes, dados os
+avanços tecnológicos que ocorreram desde então. Da mesma forma, um
+contador que trabalha atualmente não usa mais os clássicos cadernos
+diário-razão-caixa de antigamente, seu material agora é informatizado.
+Mas o que aconteceria se um professor do século passado chegasse hoje
+em uma sala de aula?
 
-O curso de Licenciatura em Computação tem como objetivo transformar
-seus egressos em profissionais que possam atuar na área da educação
-com o auxílio da Computação, tanto para ensinar conceitos de sua
-própria área, como também servir de consultor para professores que
-atuam em diversas áreas como Matemática, História, Ciências e etc.
+A resposta é simples: *ele daria aula*!
 
-No entanto, para o profissional desta área se tornar um diferencial na
-educação, ele precisa conhecer as Ciências da Computação, permitindo
-que o mesmo possa responder a questões como: Como a informação é
-representada em um computador? Como o computador realiza uma soma?
-Como fazer para o computador resolver um problema específico de forma
-automática? Como o computador disponibiliza informação no mundo todo e
-como fazer para disponibilizar o seu material neste meio? São
-perguntas como esta que o aluno irá aprender a responder durante todo
-o seu curso, sendo este livro apenas um produtor de novas dúvidas.
+Isso deveria nos causar alguma estranheza, mas não! Ainda nos dias de
+hoje se aceita com normalidade que o ensino se dê somente com os
+recursos básicos quadro e giz, embora tenhamos tecnologia suficiente
+para fazer melhor. 
 
-Iremos abordar aqui a história evolutiva dos Computadores;
-discutiremos sobre como a informação (números, imagem som e etc.), é
-representada no computador; descreveremos a arquitetura e o
-funcionamento dos componentes básicos de um computador; apresentaremos
-os softwares básicos responsáveis por construir os programas
-desenvolvidos por qualquer programador através de seus algoritmos;
-descreveremos as funcionalidades básicas de um sistema operacional,
-software que gerencia os recursos do computador e por fim
-introduziremos o funcionamento das redes de computadores promovendo
-comunicação instantânea entre as pessoas do mundo inteiro.
+A concorrência que os iPhones conectados a internet fazem ao professor
+e seu quadro/giz chega a ser desleal; os jovens estão desmotivados com
+a escola e seus métodos tradicionais mas sedentos pelas novas
+tecnologias. No intuito de aproximar a escola dos meios tecnológicos,
+profissionais da educação tem se preocupado em traçar estratégias para
+fazer bom proveito da tecnologia nas escolas, visto que apenas inserir
+o computador na sala de aula, sem um prévio planejamento de uso dos
+seus recursos, resultará certamente em fracasso. 
 
-Introdução à Computação é apenas uma visão rápida sobre os diversos
-temas da Computação, servindo como porta de entrada para o vasto campo
-do conhecimento que vocês se aventurarão em todo o curso. Prometemos
-duas coisas para quem pretende concluir este curso: muito trabalho e
-muita satisfação. O educador Rubem Alves criou um belo aforismo
-``Ostra Feliz não faz Pérola'', se referindo ao fato de que a ostra ao
-se proteger de um corpo estranho que penetrou em sua concha, cria uma
-defesa natural ao redor deste invasor, gerando por fim uma pérola,
-entretanto, durante este processo a ostra sofre muito devido à falta
-de defesa dentro de sua concha. Para nós aprendizes o ensino é assim,
-cheio de sofrimento, mas ao final teremos criado nossas próprias
-pérolas.
+Para haver uma evolução  positiva do processo ensino-aprendizagem,
+deve haver um uso adequado e inovador das tecnologias no ambiente
+escolar. Visando essas formas inovadoras de inserção da tecnologia na
+sala de aula, muitos materiais digitais são lançados a fim de tornar a
+aprendizagem mais efetiva. A esses materiais damos o nome de *Objetos
+Digitais de Aprendizagem*, e serão eles o foco do nosso curso.
+
+
 
 === Público alvo
 
