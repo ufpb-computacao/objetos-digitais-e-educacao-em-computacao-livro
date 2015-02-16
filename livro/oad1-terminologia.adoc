@@ -1,5 +1,12 @@
 === O que são Objetos de Aprendizagem Digitais?
 
+.Questões a serem respondidas
+****
+. O que são objetos de aprendizagem?
+. Qual a diferença entre objetos digitiais e analógicos?
+. O que são objetos de aprendizagem digitais?
+****
+
 ==== Objeto de Aprendizagem
 
 (((Objeto de Aprendizagem)))

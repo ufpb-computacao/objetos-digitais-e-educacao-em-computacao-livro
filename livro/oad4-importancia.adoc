@@ -1,5 +1,10 @@
 === Importância dos OADs
 
+.Questões a serem respondidas
+****
+. Qual a importância dos Objetos Digitais de Aprendizagem?
+****
+
 (((OAD, Importância)))
 
 ==== Baixo custo

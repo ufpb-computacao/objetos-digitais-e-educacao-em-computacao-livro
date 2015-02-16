@@ -1,5 +1,23 @@
 === Características dos OAD
 
+.Questões a serem respondidas
+****
+. Um OAD pode ser escolhido com base em quais características?
+. Todos os OADs possuem estas características?
+****
+
+:wiki: {gitrepo}/wiki/Caracteristicas-dos-OA
+
+++++
+<simpara>
+<ulink url="{wiki}">
+<inlinemediaobject>
+<imageobject>
+<imagedata fileref="images/wiki.svg"/>
+</imageobject>
+</inlinemediaobject></ulink></simpara>
+++++
+
 (((OAD, Características)))
 
 Os objetos digitais de aprendizagem podem ser criados em qualquer
@@ -19,31 +37,110 @@ aprendizagem são apresentadas a seguir.
 
 (((Reusabilidade)))
 
-reusabilidade: deve ser reutilizável diversas vezes em diversas situações e ambientes de aprendizagem, como por exemplo um objeto que possa ser usado tanto no ensino presencial quanto no ensino a distância e tanto no Brasil como no México;
+:wiki: {gitrepo}/wiki/Caracteristicas-dos-OA#reusabilidade
+
+++++
+<simpara>
+<ulink url="{wiki}">
+<inlinemediaobject>
+<imageobject>
+<imagedata fileref="images/wiki.svg"/>
+</imageobject>
+</inlinemediaobject></ulink></simpara>
+++++
+
+
+Reusabilidade: deve ser reutilizável diversas vezes em diversas
+situações e ambientes de aprendizagem, como por exemplo um objeto que
+possa ser usado tanto no ensino presencial quanto no ensino a
+distância e tanto no Brasil como no México;
 
 ==== Granularidade
 
 (((Granularidade)))
 
-granularidade: deve apresentar conteúdo bem específico, para facilitar o seu uso e reuso, como por exemplo um objeto que auxilie no aprendizado do conceito de frações;
+:wiki: {gitrepo}/wiki/Caracteristicas-dos-OA#granularidade
+
+++++
+<simpara>
+<ulink url="{wiki}">
+<inlinemediaobject>
+<imageobject>
+<imagedata fileref="images/wiki.svg"/>
+</imageobject>
+</inlinemediaobject></ulink></simpara>
+++++
+
+
+granularidade: deve apresentar conteúdo bem específico, para facilitar
+o seu uso e reuso, como por exemplo um objeto que auxilie no
+aprendizado do conceito de frações;
 
 ==== Acessibilidade
 
 (((Acessibilidade)))
 
-acessibilidade: ser facilmente acessível para ser usado em diversos locais ou, ainda, ser potencialmente acessível a usuários com necessidades especiais; por exemplo um blog com conteúdo de trigonometria ou um audiobook;
+:wiki: {gitrepo}/wiki/Caracteristicas-dos-OA#acessibilidade
+
+++++
+<simpara>
+<ulink url="{wiki}">
+<inlinemediaobject>
+<imageobject>
+<imagedata fileref="images/wiki.svg"/>
+</imageobject>
+</inlinemediaobject></ulink></simpara>
+++++
+
+acessibilidade: ser facilmente acessível para ser usado em diversos
+locais ou, ainda, ser potencialmente acessível a usuários com
+necessidades especiais; por exemplo um blog com conteúdo de
+trigonometria ou um audiobook;
 
 ==== Durabilidade
 
+:wiki: {gitrepo}/wiki/Caracteristicas-dos-OA#durabilidade
+
+++++
+<simpara>
+<ulink url="{wiki}">
+<inlinemediaobject>
+<imageobject>
+<imagedata fileref="images/wiki.svg"/>
+</imageobject>
+</inlinemediaobject></ulink></simpara>
+++++
+
+
 (((Durabilidade)))
 
-durabilidade: apresentar possibilidade de continuar a ser usado independente de mudança de tecnologia. Isso significa que um objeto que era usado em um equipamento mais antigo deve poder ser utilizado em um equipamento moderno, tendo em vista a rapidez com que nossa tecnologia se torna obsoleta;
+durabilidade: apresentar possibilidade de continuar a ser usado
+independente de mudança de tecnologia. Isso significa que um objeto
+que era usado em um equipamento mais antigo deve poder ser utilizado
+em um equipamento moderno, tendo em vista a rapidez com que nossa
+tecnologia se torna obsoleta;
 
+[[sec_interoperabilidade]]
 ==== Interoperabilidade
 
 (((Interoperabilidade)))
 
-interoperabilidade: apresentar possibilidade de operar através de variedade de hardwares, sistemas operacionais e browsers. Isso significa que um objeto deve funcionar em Linux, Windows e ser acessado usando Firefox, Explorer ou Chromium por exemplo;
+:wiki: {gitrepo}/wiki/Caracteristicas-dos-OA#interoperabilidade
+
+++++
+<simpara>
+<ulink url="{wiki}">
+<inlinemediaobject>
+<imageobject>
+<imagedata fileref="images/wiki.svg"/>
+</imageobject>
+</inlinemediaobject></ulink></simpara>
+++++
+
+interoperabilidade: apresentar possibilidade de operar através de
+variedade de hardwares, sistemas operacionais e browsers. Isso
+significa que um objeto deve funcionar em Linux, Windows e ser
+acessado usando Firefox, Explorer ou Chromium por exemplo;
 
 ==== Atividades: explicando as características dos OAD com base nos objetos apresentados
 
@@ -127,14 +224,95 @@ TODO.
 
 (((Interoperabilidade)))
 
-TODO.
+Imagine que você está particicando de uma equipe de produção de
+recursos didáticos para um curso de educação a distância. Na reunião
+passado foram sugeridas a produção de 4 tipos de recursos:
 
-*Resposta comentada*: TODO.
+* Pacote interativo em flash
+* Pacotes SCORMs
+* Páginas HTML
+* Aplicações para o Windows
+
+O coordenador do projeto está preocupado com o nível de
+interoperabilidade dos recursos e apontou você para produzir
+um relatório técnico para auxiliá-lo na tomada de decisão.
+
+Utilize o espaço a seguir para descrever o nível de interoperabilidade
+de cada tipo dos recursos:
+
+image::{img}/interoperabilidade-flash-scorm-html-windows-grid.svg[]
+
+<<<
+
+*Resposta comentada*: 
+
+Pacote interativo em flash:: Um pacote em flash necessita de um navegador
+com o plugin do flash instalado, como os dispositivos móveis atuais
+não possuem o plugin, sua interoperabilidade estaria comprometida.
+
+Pacote SCORM:: Se seu objeto for um pacote SCORM você poderá 
+publicá-lo em diversos LMS (_Learning Management System_).footnote:[Exemplos de alguns LMS que suportam objetos SCORM:  Moodle;
+Atutor; Blackboard; Operitel; Ilias, Eduware; Workplace; WebEnsino;
+Mentor LMS; SAP Learning Solution; Plateau LMS; EduWeb+; e Saba
+Enterprise LMS.] 
+
+Página HTML:: Uma página html geralmente é acompanhada de estilos css
+e pode conter javascripts para controlar o comportamento dinâmico.
+Um página estática com css devidamente configurado pode ser um recurso
+com alto de nível de Interoperabilidade, pois funcionaria bem em 
+qualquer navegador. 
+
+Programa compilado para o Windows:: A primeira vista um programa
+compilado para o Windows não funcionaria em outras plataformas.
 
 [TIP]
 .Feedback
 ====
 
-TODO.
+////
+http://www.flashgames247.com/game/flash-skill-games/save-the-dummy.html
+http://www.flashgames247.com/play/15860.html
+http://goo.gl/G3byD7
+////
+
+Como você analisou a *Interoperabilidade de um pacote flash*?  Você
+pesquisou no google por `Interoperabilidade+Adobe+flash`? Mesmo que
+encontre resultados significantes é importante verificar a data das
+referências, para certificar-se de que o conteúdo está atualizado, e
+até mesmo verificar pessoalmente as informações. Caso deseje, você
+poderá testar o flash no celular acessando http://goo.gl/G3byD7 a
+partir dele (ver <<fig_flash_game>>).
+
+[[fig_flash_game]]
+.Verifique a limitação do flash acessando http://goo.gl/G3byD7 do seu celular.
+image::{img}/flash-game-with-qrcode.pdf[scaledwidth="60%"]
+
+Para diminuir a limitação do flash, os desenvolvedores exportam
+animações em vídeos antes de publicarem. Percebam que, sendo um vídeo,
+toda interatividade é perdida. 
+
+Se você pesquisou um pouco sobre *SCORM e interoperabilidade* deve ter
+pecebido que este modelo foi elaborado para servir em diversos
+contextos. Embora a Interoperabilidade do SCORM seja alta, na prática,
+se seu objeto será publicado em um único LMS talvez seja mais simples
+produzi-lo voltado para o seu LMS alvo, removendo a complexidade e as
+limitações de elaboração de um pacote SCORM.
+
+Se a *página HTML* possuir recursos dinâmicos, devido o javascript
+poder estar desabilitado em alguns navegadores, tais recursos não
+funcionariam nestes clientes, comprometendo a Interoperabilidade. Além
+disso, alguns destes recursos funcionam de forma diferente nos
+navegadores, seria necessário testar a página nos diversos navegadores
+(e suas diferentes versões).
+
+Embora uma *aplicação Windows* tenha sido construída para funcionar
+neste sistema operacional, através de aplicativos como o `wine`, é
+possível executar diversos aplicativos para o Windows no Linux e no OS
+X. Desta forma a interoperabilidade do recurso aumentaria.
+
+É importante que você compreenda que analizar o nível de
+interoperabilidade de um recurso requer compreender seu funcionamento
+e dos ambientes onde eles serão publicados, sendo necessário até mesmo
+testar o recurso no ambiente (como fizemos com o jogo em flash).
 
 ====

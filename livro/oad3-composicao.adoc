@@ -1,5 +1,15 @@
 === Composição de um OAD
 
+
+.Questões a serem respondidas
+****
+. Por que um OAD é divido em partes?
+. Quais as partes de um OAD?
+****
+
+
+==== Composição de um OAD
+
 (((OAD, Composição)))
 
 Devido a grande demanda de objetos digitais de aprendizagem
@@ -13,17 +23,17 @@ Independente do tipo de padronização a ser seguido, o objeto de
 aprendizagem pode ser dividido em três partes distintas que veremos a
 seguir.
 
-==== Objetivo
+===== Objetivo
 
 O objetivo, em que o aprendiz busca as informações a respeito do campo
 em que o seu objeto de aprendizagem vai intervir; 
 
-==== Conteúdo
+===== Conteúdo
 
 O conteúdo, no qual serão previstas as ferramentas de criação de um
 objeto de aprendizagem; 
 
-==== Prática
+===== Prática
 
 A prática, ou feedback, que é quando o aprendiz irá fazer os testes
 necessários no objeto de aprendizagem para verificar se o objeto
