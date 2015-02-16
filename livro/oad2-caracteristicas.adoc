@@ -225,8 +225,8 @@ TODO.
 (((Interoperabilidade)))
 
 Imagine que você está particicando de uma equipe de produção de
-recursos didáticos para um curso de educação a distância. Na reunião
-passado foram sugeridas a produção de 4 tipos de recursos:
+recursos didáticos para um curso de educação a distância. Sua equipe
+sugeriu a produção de 4 tipos de recursos:
 
 * Pacote interativo em flash
 * Pacotes SCORMs
@@ -234,11 +234,22 @@ passado foram sugeridas a produção de 4 tipos de recursos:
 * Aplicações para o Windows
 
 O coordenador do projeto está preocupado com o nível de
-interoperabilidade dos recursos e apontou você para produzir
-um relatório técnico para auxiliá-lo na tomada de decisão.
+interoperabilidade dos recursos e apontou você para produzir um relatório técnico para auxiliá-lo na tomada de decisão.
 
 Utilize o espaço a seguir para descrever o nível de interoperabilidade
-de cada tipo dos recursos:
+de cada tipo dos recursos.
+
+[TIP]
+====
+
+Basta _descrever_ a interoperabilidade dos recursos de forma
+independente, para esta atividade é dispensável tercer julgamento
+sobre qual seria _o melhor recurso_.
+
+Caso seja necessário, pesquise na internet sobre os tipos de recursos
+e os ambientes onde eles seriam publicados.
+
+====
 
 image::{img}/interoperabilidade-flash-scorm-html-windows-grid.svg[]
 
@@ -280,8 +291,7 @@ pesquisou no google por `Interoperabilidade+Adobe+flash`? Mesmo que
 encontre resultados significantes é importante verificar a data das
 referências, para certificar-se de que o conteúdo está atualizado, e
 até mesmo verificar pessoalmente as informações. Caso deseje, você
-poderá testar o flash no celular acessando http://goo.gl/G3byD7 a
-partir dele (ver <<fig_flash_game>>).
+poderá testar o flash no celular acessando http://goo.gl/G3byD7.
 
 [[fig_flash_game]]
 .Verifique a limitação do flash acessando http://goo.gl/G3byD7 do seu celular.
