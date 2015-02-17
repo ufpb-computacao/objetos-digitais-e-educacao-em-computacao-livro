@@ -72,7 +72,7 @@ distância e tanto no Brasil como no México;
 ++++
 
 
-granularidade: deve apresentar conteúdo bem específico, para facilitar
+Granularidade: deve apresentar conteúdo bem específico, para facilitar
 o seu uso e reuso, como por exemplo um objeto que auxilie no
 aprendizado do conceito de frações;
 
@@ -92,7 +92,7 @@ aprendizado do conceito de frações;
 </inlinemediaobject></ulink></simpara>
 ++++
 
-acessibilidade: ser facilmente acessível para ser usado em diversos
+Acessibilidade: ser facilmente acessível para ser usado em diversos
 locais ou, ainda, ser potencialmente acessível a usuários com
 necessidades especiais; por exemplo um blog com conteúdo de
 trigonometria ou um audiobook;
@@ -114,7 +114,7 @@ trigonometria ou um audiobook;
 
 (((Durabilidade)))
 
-durabilidade: apresentar possibilidade de continuar a ser usado
+Durabilidade: apresentar possibilidade de continuar a ser usado
 independente de mudança de tecnologia. Isso significa que um objeto
 que era usado em um equipamento mais antigo deve poder ser utilizado
 em um equipamento moderno, tendo em vista a rapidez com que nossa
@@ -137,7 +137,7 @@ tecnologia se torna obsoleta;
 </inlinemediaobject></ulink></simpara>
 ++++
 
-interoperabilidade: apresentar possibilidade de operar através de
+Interoperabilidade: apresentar possibilidade de operar através de
 variedade de hardwares, sistemas operacionais e browsers. Isso
 significa que um objeto deve funcionar em Linux, Windows e ser
 acessado usando Firefox, Explorer ou Chromium por exemplo;
@@ -207,9 +207,108 @@ TODO.
 
 (((Durabilidade)))
 
-TODO.
+Os governos tem a necessidade de armazenar documentos digitais por um
+longo período de tempo. Você foi recentemente contratado pelo MEC para
+assessorar no armazenamento e o acesso aos objetos educacionais
+produzidos. Nesta semana vocês estão decidindo sobre a preservação dos
+arquivos de áudio.
 
-*Resposta comentada*: TODO.
+Emita um relatório sobre a durabilidade dos seguintes tipos de
+arquivos de áudio:
+
+- `.mp3`: MPEG (Layer 3)
+- `wma`: Windows Media audio
+- `.ogg` ou `.ogga`: Ogg Vorbis
+- `.wav`: WAV sem compressão
+
+
+[cols="1^,1^,1^,1^,1^,1^,1^",options="header"]
+|====
+| Formato
+| Isento de direitos legais
+| Possui uma norma emitida por um organismo internacional (ex. W3C);
+| Especificação pública e livre;
+| Amplamente usado;
+| Lido e escrito por múltiplas plataformas de software, incluindo código-aberto; 
+| Comprimido sem perdas de informação ou não comprimido
+
+| MP3
+| Não
+| Sim
+| Não
+| Sim
+| Sim
+| Não
+
+
+| WMA
+| 
+| 
+| 
+|
+|
+|
+
+| OGG
+|
+|
+|
+|
+|
+|
+
+| WAV
+||||||
+|====
+
+
+
+*Resposta comentada*: 
+
+[cols="1^,1^,1^,1^,1^,1^,1^"]
+|====
+| Formato
+| Isento de direitos legais
+| Possui uma norma emitida por um organismo internacional (ex. W3C);
+| Especificação pública e livre;
+| Amplamente usado;
+| Lido e escrito por múltiplas plataformas de software, incluindo código-aberto; 
+| Comprimido sem perdas de informação ou não comprimido
+
+| MP3
+| Não
+| Sim
+| Não
+| Sim
+| Sim
+| Não
+
+
+| WMA
+| Não
+| Não
+| Não
+| Sim
+| Sim
+| Não
+
+| OGG
+| Sim
+| Sim
+| Sim
+| Sim
+| Sim
+| Sim
+
+| WAV
+| Sim
+| Sim
+| Sim
+| Sim
+| Sim
+| Sim
+|====
+
 
 [TIP]
 .Feedback
@@ -224,7 +323,7 @@ TODO.
 
 (((Interoperabilidade)))
 
-Imagine que você está particicando de uma equipe de produção de
+Imagine que você está participando de uma equipe de produção de
 recursos didáticos para um curso de educação a distância. Sua equipe
 sugeriu a produção de 4 tipos de recursos:
 
@@ -243,7 +342,7 @@ de cada tipo dos recursos.
 ====
 
 Basta _descrever_ a interoperabilidade dos recursos de forma
-independente, para esta atividade é dispensável tercer julgamento
+independente, para esta atividade é dispensável tecer julgamento
 sobre qual seria _o melhor recurso_.
 
 Caso seja necessário, pesquise na internet sobre os tipos de recursos
@@ -302,7 +401,7 @@ animações em vídeos antes de publicarem. Percebam que, sendo um vídeo,
 toda interatividade é perdida. 
 
 Se você pesquisou um pouco sobre *SCORM e interoperabilidade* deve ter
-pecebido que este modelo foi elaborado para servir em diversos
+percebido que este modelo foi elaborado para servir em diversos
 contextos. Embora a Interoperabilidade do SCORM seja alta, na prática,
 se seu objeto será publicado em um único LMS talvez seja mais simples
 produzi-lo voltado para o seu LMS alvo, removendo a complexidade e as
@@ -320,7 +419,7 @@ neste sistema operacional, através de aplicativos como o `wine`, é
 possível executar diversos aplicativos para o Windows no Linux e no OS
 X. Desta forma a interoperabilidade do recurso aumentaria.
 
-É importante que você compreenda que analizar o nível de
+É importante que você compreenda que analisar o nível de
 interoperabilidade de um recurso requer compreender seu funcionamento
 e dos ambientes onde eles serão publicados, sendo necessário até mesmo
 testar o recurso no ambiente (como fizemos com o jogo em flash).
